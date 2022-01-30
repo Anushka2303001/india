@@ -1,0 +1,150 @@
+body{
+	margin: 0;
+	background-color: #000000;
+	text-decoration-color: white;
+  font-family:Great Vibes,serif ;
+}
+
+
+.center{
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1{
+	font-family:Kaushan Script
+,serif;
+  text-align: center;
+
+}
+
+.hr{
+	 background-color: blue;
+    border-style: none;
+    border-top-style: solid;
+    height: 0px;
+    width: 0.3%;
+}
+/*
+.bird{
+  top: 30%;
+  right: 20%;
+}*/
+
+
+
+
+
+.image{
+  text-align: center;
+
+ 
+}
+.imgclr{
+  border: 5px solid white;
+}
+
+.link{
+  text-align: center;
+}
+
+.dance{
+  line-height: 40px;
+  font-size: 20px;
+  border-style: black solid;
+  padding: 40px;
+
+}
+
+.bharatnatyam{
+  margin-left: 20px;
+
+
+
+}
+
+
+.orange{
+  border-color: #FF9933;
+  border-style: none;
+  border-top-style: solid;
+  border-width: 10px;
+  width: 13%;
+  
+}
+
+
+
+.white{
+  border-color: white;
+  border-style: none;
+  border-top-style: solid;
+  border-width: 10px;
+  width: 13%;
+}
+
+
+.green{
+  border-color: #39ff14;
+  border-style: none;
+  border-top-style: solid;
+  border-width: 10px;
+  width: 13%;
+}
+
+.triimg{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 0;
+}
+
+
+.para{
+
+
+ line-height: 50px;
+  font-size: 20px;
+margin: 50px 100px auto 100px;
+}
+
+.para::first-letter {
+  color: white;
+  font-size: 350%;}
+
+  .peacock-img{
+    width: 25%;
+  float: right;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 0;
+  }
+  .txt{
+    line-height: 50px;
+  font-size: 20px;
+margin: 50px 100px auto 100px;
+
+  }
+
+.tiger-img{
+    width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 30px;
+  margin-top: 0;
+  }
+
+  .hockey-img{
+    float: right;
+    margin: 25px;
+  }
+
+
+.lotus-img{
+  float: left;
+  margin-right: 30px;
+}
+
